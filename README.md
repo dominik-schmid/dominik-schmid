@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming and cloud technologies.
 - 🌱 I’m currently learning the Rust programming language.
 - 💞️ I’m looking forward collaborating on interesting software projects written in Rust.
-- 📫 You can contact me directly via [email](<a href='ma&#105;&#108;&#116;o&#58;co&#110;%&#55;4act&#64;&#100;om&#105;&#37;6E%69%6B-&#115;c%68&#109;&#105;&#37;6&#52;&#46;&#37;63&#111;m'>&#99;ontact&#64;domin&#105;k-&#115;chm&#105;d&#46;c&#111;&#109;</a>).
+- 📫 You can contact me directly via [email](ma&#105;&#108;&#116;o&#58;co&#110;%&#55;4act&#64;&#100;om&#105;&#37;6E%69%6B-&#115;c%68&#109;&#105;&#37;6&#52;&#46;&#37;63&#111;m).
